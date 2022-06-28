@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Reid, interested in ML && kv-store.
+<!-- ### I'm Reid, interested in ML && kv-store. -->
 <!--
 **Reid00/Reid00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
